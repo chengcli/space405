@@ -63,6 +63,14 @@ Technical Resources
 Basics
 ~~~~~~
 
+These resources provide general guidelines to prepare you for the
+technical aspects of the course. They are modern tools that ease your
+effort of writing computer programs and technical documents.
+If you are already familiar with them, you can skip this section.
+Otherwise, instructions will be given in class when you need to review
+the material. You will not be evaluated on learning these materials.
+But your homework and mini-project may require you to use them.
+
 * Linux user guide
   `link <https://www.tutorialspoint.com/unix/index.htm>`_
 
@@ -81,16 +89,33 @@ Basics
 Advanced
 ~~~~~~~~
 
-* Modern C++ user guide
-  `link <https://www.tutorialspoint.com/cplusplus/index.htm>`_
+These resources are for students who wish to learn a graduate level of 
+planetary science and advanced numerical simulation. These materials are
+not required for the course.
 
-* Rust user guide
-  `link <https://www.tutorialspoint.com/rust/index.htm>`_
+* de Pater, Imke, and Jack J. Lissauer (2015). "Planetary Sciences" 
+  `[link] <https://www.cambridge.org/core/books/planetary-sciences/6EB428DDC505B163480E9C63FE74ACDD>`_
+
+* Rust free book
+  `[link] <https://doc.rust-lang.org/book/title-page.html>`_
 
 Evaluation
 ----------
 
-You will be evaluated based on your knowledge and skills. The following table shows the weight of each component.
+You will be evaluated based on your knowledge and skills learned in this course.
+The following table shows the weight of each component.
+In particular, the scope of the mini-project consists of two parts:
+
+(1) A thorough discussion of your project, including the scientific motivation, 
+    the technology, and the impact/results. This part contributes 15% of your total grade.
+
+(2) Your technical report should involve proper formatted examples, figures, tables,
+    computer programs, and other visualizations to demonstrate your understanding of
+    the project. This part contributes another 15% of your total grade.
+
+The skills you learned during the course and doing the homework assignments will help
+you to complete the mini-project. You are encouraged to discuss with the instructor
+as early as possible to choose a project that you are interested in.
 
 .. table:: Evaluation Metrics
     :widths: 30 50 30 50
@@ -106,7 +131,7 @@ You will be evaluated based on your knowledge and skills. The following table sh
 +           +----------------------+-------------------+ - B- : 80%        |
 |           | Mini-project         | 15%               | - C+ : 77%        |
 +-----------+----------------------+-------------------+ - C  : 73%        |
-|           | Python programming   | 5%                | - C- : 70%        |
+|           | Programming          | 5%                | - C- : 70%        |
 +           +----------------------+-------------------+ - D+ : 67%        |
 | Skill     | Using Github and git | 5%                | - D  : 63%        |
 +           +----------------------+-------------------+ - D- : 60%        |
