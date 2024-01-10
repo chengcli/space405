@@ -24,6 +24,7 @@ Solar System Exploration
 
    index
    syllabus
+   glossary
 
 Course Objectives
 -----------------
@@ -59,6 +60,9 @@ Technical Reading:
 Technical Resources
 -------------------
 
+Basics
+~~~~~~
+
 * Linux user guide
   `link <https://www.tutorialspoint.com/unix/index.htm>`_
 
@@ -70,6 +74,18 @@ Technical Resources
 
 * Git user guide
   `link <https://www.tutorialspoint.com/git/index.htm>`_
+
+* reStructuredText user guide
+  `link <https://www.sphinx-doc.org/en/master/usage/restructuredtext/>`_
+
+Advanced
+~~~~~~~~
+
+* Modern C++ user guide
+  `link <https://www.tutorialspoint.com/cplusplus/index.htm>`_
+
+* Rust user guide
+  `link <https://www.tutorialspoint.com/rust/index.htm>`_
 
 Evaluation
 ----------
