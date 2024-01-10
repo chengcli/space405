@@ -19,6 +19,12 @@ Solar System Exploration
     should contact us as soon as possible (by the mid of January) to discuss appropriate
     academic accommodations for qualified students with disabilities.
 
+.. toctree::
+   :maxdepth: 2
+
+   index
+   syllabus
+
 Course Objectives
 -----------------
 
@@ -70,6 +76,9 @@ Evaluation
 
 You will be evaluated based on your knowledge and skills. The following table shows the weight of each component.
 
+.. table:: Evaluation Metrics
+    :widths: 30 50 30 50
+
 +-----------+----------------------+-------------------+-------------------+
 |           | Component            | Weight            | Letter Grade      |
 +===========+======================+===================+===================+
@@ -88,8 +97,3 @@ You will be evaluated based on your knowledge and skills. The following table sh
 |           | Techinical Writing   | 5%                |                   |
 +-----------+----------------------+-------------------+-------------------+
 
-.. toctree::
-   :maxdepth: 2
-
-   index
-   syllabus
