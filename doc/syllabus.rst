@@ -2,7 +2,6 @@ Course Schedule
 ===============
 
 .. list-table::
-   :widths: 25 25 25 25
    :header-rows: 1
 
    * - Week

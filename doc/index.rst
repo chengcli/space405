@@ -66,17 +66,17 @@ Basics
 * Linux user guide
   `link <https://www.tutorialspoint.com/unix/index.htm>`_
 
-* Vim user guide
-  `link <https://www.tutorialspoint.com/vim/index.htm>`_
+* Vim interactive user guide
+  `[link] <https://openvim.com/>`_
 
 * Python user guide
   `link <https://www.tutorialspoint.com/python/index.htm>`_
 
-* Git user guide
-  `link <https://www.tutorialspoint.com/git/index.htm>`_
+* Git interactive user guide
+  `[link] <https://learngitbranching.js.org>`_
 
 * reStructuredText user guide
-  `link <https://www.sphinx-doc.org/en/master/usage/restructuredtext/>`_
+  `[link] <https://www.sphinx-doc.org/en/master/usage/restructuredtext/>`_
 
 Advanced
 ~~~~~~~~

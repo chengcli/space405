@@ -157,5 +157,5 @@ cython_debug/
 
 # slides
 slides/
-
+resources/
 .DS_Store
