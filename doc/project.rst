@@ -22,6 +22,8 @@ If you have your own idea for a project, feel free to contact me!
 :Difficulty:
   |fillstar| |fillstar| |fillstar| |fillstar| |openstar|
 
+:Owner:
+  **Macarena Peralta**
 
 Background
 ~~~~~~~~~~
