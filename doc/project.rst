@@ -84,8 +84,8 @@ Questions
     #. Why is the dark half visible at all?
 
 
-2. Microwave Mapping of Jupiter's Polar Cyclones
-------------------------------------------------
+2. Microwave Mapping of Jupiter's Vortices
+------------------------------------------
 
 :Contributor: **Jiheng Hu**
 
@@ -93,4 +93,4 @@ Questions
   ``Python``
 
 :Difficulty:
-  |fillstar| |fillstar| |openstar| |openstar| |openstar|
+  |fillstar| |fillstar| |fillstar| |openstar| |openstar|
