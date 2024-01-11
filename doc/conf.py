@@ -1,5 +1,14 @@
 # Configuration file for the Sphinx documentation builder.
 
+from docutils import nodes
+from docutils.parsers.rst import roles
+
+def greyed_out_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
+    node = nodes.inline(rawtext, text, classes=["greyed-out"])
+    return [node], []
+
+roles.register_local_role('grey', greyed_out_role)
+
 # -- Project information
 
 project = 'Climate-Space-405'
@@ -33,3 +42,10 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- Custom options
+html_static_path = ['_static']
+
+html_css_files = [
+    'custom.css',
+]

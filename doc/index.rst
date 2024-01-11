@@ -25,6 +25,7 @@ Solar System Exploration
    index
    syllabus
    glossary
+   project
 
 Course Objectives
 -----------------
@@ -56,48 +57,6 @@ Technical Reading:
 
 #. Jack J. Lissauer and Imke de Pater (2015). "Fundamental Planetary Science: Physics, Chemistry and Habitability"
    `[link] <https://www.cambridge.org/highereducation/books/fundamental-planetary-science/8FD11659BE64C35A172DF0432D7FCFA4#overview>`_
-
-Technical Resources
--------------------
-
-Basics
-~~~~~~
-
-These resources provide general guidelines to prepare you for the
-technical aspects of the course. They are modern tools that ease your
-effort of writing computer programs and technical documents.
-If you are already familiar with them, you can skip this section.
-Otherwise, instructions will be given in class when you need to review
-the material. You will not be evaluated on learning these materials.
-But your homework and mini-project may require you to use them.
-
-* Linux user guide
-  `link <https://www.tutorialspoint.com/unix/index.htm>`_
-
-* Vim interactive user guide
-  `[link] <https://openvim.com/>`_
-
-* Python user guide
-  `link <https://www.tutorialspoint.com/python/index.htm>`_
-
-* Git interactive user guide
-  `[link] <https://learngitbranching.js.org>`_
-
-* reStructuredText user guide
-  `[link] <https://www.sphinx-doc.org/en/master/usage/restructuredtext/>`_
-
-Advanced
-~~~~~~~~
-
-These resources are for students who wish to learn a graduate level of 
-planetary science and advanced numerical simulation. These materials are
-not required for the course.
-
-* de Pater, Imke, and Jack J. Lissauer (2015). "Planetary Sciences" 
-  `[link] <https://www.cambridge.org/core/books/planetary-sciences/6EB428DDC505B163480E9C63FE74ACDD>`_
-
-* Rust free book
-  `[link] <https://doc.rust-lang.org/book/title-page.html>`_
 
 Evaluation
 ----------
@@ -138,3 +97,44 @@ as early as possible to choose a project that you are interested in.
 |           | Techinical Writing   | 5%                |                   |
 +-----------+----------------------+-------------------+-------------------+
 
+Other Resources
+---------------
+
+Basics
+~~~~~~
+
+These resources provide general guidelines to prepare you for the
+technical aspects of the course. They are modern tools that ease your
+effort of writing computer programs and technical documents.
+If you are already familiar with them, you can skip this section.
+Otherwise, instructions will be given in class when you need to review
+the material. You will not be evaluated on learning these materials.
+But your homework and mini-project may require you to use them.
+
+* Linux interactive user guide
+  `[link] <https://linuxsurvival.com/>`_
+
+* Vim interactive user guide
+  `[link] <https://openvim.com/>`_
+
+* Python interactive user guide
+  `[link] <https://www.learnpython.org/>`_
+
+* Git interactive user guide
+  `[link] <https://learngitbranching.js.org>`_
+
+* reStructuredText user guide
+  `[link] <https://www.sphinx-doc.org/en/master/usage/restructuredtext/>`_
+
+Advanced
+~~~~~~~~
+
+These resources are for students who wish to learn a graduate level of 
+planetary science and advanced numerical simulation. These materials are
+not required for the course.
+
+* de Pater, Imke, and Jack J. Lissauer (2015). "Planetary Sciences" 
+  `[link] <https://www.cambridge.org/core/books/planetary-sciences/6EB428DDC505B163480E9C63FE74ACDD>`_
+
+* Rust free book
+  `[link] <https://doc.rust-lang.org/book/title-page.html>`_
