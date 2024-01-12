@@ -99,8 +99,7 @@ Questions
 
 Background
 ~~~~~~~~~~
-Jupiter is widely known for its global widespread storms, vortices, and convective clouds that dominate its upper atmosphere. These phenomena are closely linked to the atmospheric thermal structure's instability, convective processes, and the latent heating associated with volatile condensations.  
-
+Jupiter is widely known for its global widespread storms, vortices, and convective clouds that dominate its upper atmosphere. These phenomena are closely linked to atmospheric dynamics and weather phenomenon.
 Here is an infrared image of the Jupiter polar vortices, taken by Juno/JIRAM in the 20th flyby.
 
 .. image:: ../images/Juno-JIRAM-polar-vortices-PJ20.jpg
@@ -108,44 +107,57 @@ Here is an infrared image of the Jupiter polar vortices, taken by Juno/JIRAM in 
    :align: center
    :alt: Jupiter’s north pole taken by JIRAM (ASI) onboard JUNO © NASA/JPL-Caltech
 
-The Juno spacecraft is equipped with a microwave radiometer (MWR) capable of mapping Jupiter's atmosphere using six centimeter-wave channels, with frequencies ranging from 0.6 GHz (50 cm, channel 1) to 21.9 GHz (1.37 cm, channel 6). These channels are designed to detect the dynamic characteristics of Jupiter’s sub-cloud atmosphere and the presently unknown variations in the abundances of ammonia and water deep within these cloud decks.
+The Juno spacecraft is equipped with a microwave radiometer (MWR) capable of mapping Jupiter's atmosphere using six centimeter-wave channels, with frequencies ranging from 0.6 GHz (50 cm, channel 1) to 21.9 GHz (1.37 cm, channel 6) [1]_.
+These channels are designed to detect the dynamic characteristics of Jupiter’s sub-cloud atmosphere and the presently unknown variations in the abundances of ammonia and water deep within these cloud decks.
+During the 19-th flyby, the MWR observed several Jovian vortices in the mid-latitudes [2]_.
+Recent flybys have revealed features of the polar vortices.
 
 Basic Goal
 ~~~~~~~~~~
 
-Plot the images of multiband microwave brightness temperature signals observed by MWR, distinguish the individual Jovian cyclone, analyze the emission characteristics.
+    #. Make plots of the multiband microwave brightness temperature signals observed by Juno/MWR
+    #. Map and identify individual Jovian vortices.
 
 Advanced Goal
 ~~~~~~~~~~~~~
 
-1. Derive the measurement response function (MRF) of a specific MWR footprint with provided observational parameters, including the spacecraft's altitude, antenna beamwidth and corresponding antenna pattern function. 
-2. Perform the integration of high-resolution truth emission with derived MRF to simulate antenna measurements.
+    #. Read the numerical simulation results of Jovian vortices.
 
-Quest:
-~~~~~~~~~~~~~
+    #. Simulate the synthetic MWR antenna temperatures of the Jovian vortices.
+           A synthetic MWR antenna temperature is obtained by the integration of point-wise emission model with 
+           the MWR's measurement response function (MRF). To perform the integration, we need to know
+           the antenna pattern function, the spacecraft's altitude, and the antenna beamwidth.
 
-   |uncheckedbox| Login into the workstation, find the current Juno MWR HDF file from the following directory: /nfs/nuke/chengcli/JUNOMWR/foyafuso/MWR_TA_perijove_current.h5 .  
+Quests
+~~~~~~
 
-   |uncheckedbox| Understand the mode of spinning mapping of MWR.  
+   |uncheckedbox| Login into a Linux workstation and find the Juno MWR observation file (HDF).
 
-   |uncheckedbox| Extract variables from the HDF file, understand the footprints and the spacecraft nadir points.  
+   |uncheckedbox| Understand the structure of the HDF file and the meaning of each variable.
 
-   |uncheckedbox| Understand how the footprint forms in the context of a spinning maping mode of MWR.  
+   |uncheckedbox| Understand how the Juno/MWR makes observations of Jupiter (a spinning mapping mode).
+
+   |uncheckedbox| Extract variables from the HDF file, understand the meaning of footprints and the spacecraft trajectory.
+
+   |uncheckedbox| Explain how the footprint forms in the context of a spinning maping mode.
+
+   |uncheckedbox| More quests to come!
 
 
-Question:
-~~~~~~~~~~~~~
+Questions
+~~~~~~~~~
 
-    #. Why is a typical MWR footprint in elliptical shape?  
-    #. Why is the MWR's image down in a coarser resolution compared to JIRAM?  
+    #. What are the feature(s) of Jovian vortices in the MWR images?
     #. Amongst the images of six MWR channels, which one gives the clearest featrues of vortices, why?  
-    #. How to calculate the emission angle by ourself, knowing the MWR's poistion and altitude?  
+    #. What is the resolation of an MWR-mapped image?
+    #. Why is a typical MWR footprint an elliptical shape?
+    #. How to calculate an effective emission angle given the MWR's poistion and altitude?  
 
 References
-~~~~~~~~~~~~~
+~~~~~~~~~~
 
-  -	S.J. Bolton et al. Microwave Observations Reveal the Deep Extent and Structure of Jupiter’s Atmospheric Vortices. Science 374, 968- 972(2021). DOI:10.1126/science.abf1015.  
-  -	Janssen, M.A. et al. MWR: Microwave Radiometer for the Juno Mission to Jupiter. Space Science Review 213, 139–185 (2017). https://doi.org/10.1007/s11214-017-0349-5.  
-  - Ingersoll, A.P. et al. Polygonal patterns of vortices on Jupiter: Convective forcing and large-scale shielding. Nature Astronomy (in press).  
+.. [1] Janssen, M.A. et al. MWR: Microwave Radiometer for the Juno Mission to Jupiter. *Space Science Review* 213, 139–185 (2017).
+   https://doi.org/10.1007/s11214-017-0349-5.  
 
-
+.. [2] S.J. Bolton et al. Microwave Observations Reveal the Deep Extent and Structure of Jupiter’s Atmospheric Vortices. *Science* 374, 968-972(2021).
+   http://doi.org/10.1126/science.abf1015.  
