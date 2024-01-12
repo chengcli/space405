@@ -144,7 +144,7 @@ Question:
 References
 ~~~~~~~~~~~~~
 
-  -	S.J. Bolton et al. Microwave observations reveal the deep extent and structure of Jupiter’s atmospheric vortices. Science 374, 968- 972(2021). DOI:10.1126/science.abf1015.  
+  -	S.J. Bolton et al. Microwave Observations Reveal the Deep Extent and Structure of Jupiter’s Atmospheric Vortices. Science 374, 968- 972(2021). DOI:10.1126/science.abf1015.  
   -	Janssen, M.A. et al. MWR: Microwave Radiometer for the Juno Mission to Jupiter. Space Science Review 213, 139–185 (2017). https://doi.org/10.1007/s11214-017-0349-5.  
   - Ingersoll, A.P. et al. Polygonal patterns of vortices on Jupiter: Convective forcing and large-scale shielding. Nature Astronomy (in press).  
 
