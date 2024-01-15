@@ -112,6 +112,7 @@ These channels are designed to detect the dynamic characteristics of Jupiter’s
 During the 19-th flyby, the MWR observed several Jovian vortices in the mid-latitudes [2]_.
 Recent flybys have revealed features of the polar vortices.
 
+  
 Basic Goal
 ~~~~~~~~~~
 
@@ -143,7 +144,6 @@ Quests
 
    |uncheckedbox| More quests to come!
 
-
 Questions
 ~~~~~~~~~
 
@@ -161,3 +161,73 @@ References
 
 .. [2] S.J. Bolton et al. Microwave Observations Reveal the Deep Extent and Structure of Jupiter’s Atmospheric Vortices. *Science* 374, 968-972(2021).
    http://doi.org/10.1126/science.abf1015.  
+
+
+3. DART DRACO observation of Didymos-Dimorphos binary asteroid system
+---------------------------------------------------------------------
+
+:Contributor: **Yun Zhang**
+
+:Programming Language:
+  ``Python`` [``Matlab``] 
+
+:Optional software:
+  ``ArcGIS``
+
+:Difficulty:
+  |fillstar| |fillstar| |fillstar| |fillstar| |openstar|
+
+Background
+~~~~~~~~~~
+
+The Double Asteroid Redirection Test (DART) mission is the first mission to test the kinetic impactor 
+technique to redirect asteroids and mitigate potential threats. Targeting the Didymos-Dimorphos binary system, 
+the DART spacecraft collided with the moonlet Dimorphos on 26 September 2022 at a speed of about 6 km/s.
+
+The spacecraft carried the Didymos Reconnaissance and Asteroid Camera for Optical Navigation (DRACO), a 
+narrow-angle imager used for optical navigation, terminal guidance, and asteroid characterization. As it 
+approached Dimorphos, the spacecraft continuously transmitted images to the ground until 0.855 s before impact, 
+revealing a boulder-rich surface. All the raw and calibrated images, Dimorphos's shape model, as well as 
+associated documentation can be downloaded from `PDS Small Bodies Node <https://pds-smallbodies.astro.umd.edu/data_sb/missions/dart/index.shtml>`_. 
+An example is shown below (from an image captured 12.409 s before impact).
+
+.. image:: ../images/Dimorphos_from_calibratedDRACOimages.png
+   :width: 400px
+   :align: center
+   :alt: Dimorphos as seen in calibrated DRACO images (dart_0401930039_14119_02_iof) © NASA/APL
+
+
+As the morphology and size distribution of the boulder field on Dimorphos have significant implications for the asteroid's formation and evolution, let's proceed to analyze the images to extract this information!
+
+Basic Goal
+~~~~~~~~~~
+
+    Develop an image processing pipeline for extracting 2D boulder shape information from images.
+
+Advanced Goal
+~~~~~~~~~~~~~
+
+    Design and train a machine-learning model to automatic characterization of boulder shape and size distribution.
+
+Quests
+~~~~~~
+
+    |uncheckedbox| Download the calibrated images from the DART mission data website at PDS.
+
+    |uncheckedbox| Understand the FITS Data Format and learn to view and manipulate FITS images.
+
+    |uncheckedbox| Determine the pixel scale of the selected to-be-analyzed images 
+         hint: find the spacecraft range according to the known time of impact and spacecraft speed or use the shape models.
+
+    |uncheckedbox| Prepare the training set by manual and automated mapping of boulders' shape from images 
+         Typically, a boulder requires a minimum of 3–5 pixels for accurate identification.
+
+    |uncheckedbox| More quests to come!
+
+Questions
+~~~~~~~~~
+
+    #. How large is the largest boulder on Dimorphos?
+    #. What is the resolution of the final image received on the ground?
+    #. Why does the shape model of Dimorphos appear more oblate than the illuminated limb shown in the image?
+    #. How are boulder sizes distributed on Dimorphos?
