@@ -94,20 +94,20 @@ Course Schedule
      - ``HW 4 due``
    * - 12
      - Mar 25
-     - Plasma interactions with planetary bodies
-     -
+     - Guest lecture on space instrumentation
+     - Prof. Jim Raines
    * -  
      - Mar 27
-     - Computational practice on technical writing
+     - Plasma interactions with planetary bodies
      -
    * - 13
      - Apr 1
-     - Review of in situ measurements: Magnetometry, Plasma and Energetic Particles
+     - Computational practice on technical writing
      -  
    * -  
      - Apr 3
-     - Guest lecture on space instrumentation
-     - Prof. Jim Raines
+     - Review of in situ measurements: Magnetometry, Plasma and Energetic Particles
+     -
    * - 14
      - Apr 8
      - Climate evolution and habitability (I)
