@@ -4,11 +4,14 @@ Solar System Exploration
 :Instructor:
   Cheng Li
 
+:Grader:
+  Ramya Bhaskarapanthula
+
 :Email:
   chengcli@umich.edu
 
 :Office Hours:
-  TBD
+  Monday 2 - 4 pm
 
 :Office Location:
   1535 Space Research Building

@@ -32,8 +32,8 @@ The trajectory of the Juno spacecraft was modified to visit the Galilean Moons. 
 instruments were designed to study the atmosphere of Jupiter, but as there are no other spacecraft nearby,
 it’s the best one around!
 
-On December 30, 2023, Juno was close to Io, Jupiter’s volcanic moon. The images that Junocam
-collected were quickly processed to make projected maps in color and those were posted on the mission’s
+On December 30, 2023, Juno was close to Io, Jupiter’s volcanic moon. The image that Junocam
+collected was quickly processed to make projected maps in color and those were posted on the mission’s
 public website. Here is one of those pictures:
 
 .. image:: ../images/io_from_juno.jpg
