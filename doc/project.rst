@@ -97,6 +97,9 @@ Questions
 :Difficulty:
   |fillstar| |fillstar| |fillstar| |openstar| |openstar|
 
+:Owner:
+  **Raina Mahajan**
+
 Background
 ~~~~~~~~~~
 Jupiter is widely known for its global widespread storms, vortices, and convective clouds that dominate its upper atmosphere. These phenomena are closely linked to atmospheric dynamics and weather phenomenon.
