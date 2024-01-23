@@ -145,11 +145,11 @@ of the Sun is given by
 
 where :math:`r_{\perp}` is the distance perpendicular to the rotation axis,
 :math:`v` is the velocity, and 
-:math:`\mathrm{d} m` is the mass of the small piece. The `\mathrm{d}` symbol stands
+:math:`\mathrm{d} m` is the mass of the small piece. The :math:`\mathrm{d}` symbol stands
 for an infinitesimal quantity and we will use this notation throughout the
-lectures and the homework assignments. As a result, the symbol `\mathrm{d} L` stands
+lectures and the homework assignments. As a result, the symbol :math:`\mathrm{d} L` stands
 for the infinitesimal angular momentum of a small piece of the Sun and the
-symbol `\mathrm{d} m` stands for the infinitesimal mass of a small piece of the Sun.
+symbol :math:`\mathrm{d} m` stands for the infinitesimal mass of a small piece of the Sun.
 
 For a spherical body that rotates around a fixed axis, the velocity of a small
 piece of the body is given by:
