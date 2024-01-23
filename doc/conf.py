@@ -34,6 +34,16 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
+latex_engine = 'xelatex'
+
+latex_elements = {
+    'preamble': r'''
+    \usepackage{fontspec}
+    \usepackage{svg}
+    \setmainfont{Arial Unicode MS}
+    '''
+}
+
 templates_path = ['_templates']
 
 # -- Options for HTML output

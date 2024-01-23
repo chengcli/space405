@@ -33,6 +33,7 @@ correct results. You are fully responsible for the correctness of your code.
 To allow us to grade your homework, you must submit both your calculation code and the 
 written answers to ``Canvas`` in a combined ``PDF`` file. You code will be 
 graded based on the style and your written answers will be graded based on the correctness.
+(You will not be graded on the style for this homework assignment.)
 
 .. _Solar Property Table:
 
@@ -185,7 +186,7 @@ Sun. The :math:`z`-axis is aligned with the rotation axis of the Sun. The
 perpendicular to the :math:`x`-axis and the :math:`z`-axis. An illustration of the
 geometry is shown in the figure below.
 
-.. figure:: spherical_polar.svg
+.. figure:: spherical_polar.png
     :width: 400
     :align: center
 
@@ -228,9 +229,7 @@ Sun:
 
 .. math::
 
-   L_\odot = \Omega \rho \int_0^{2 \pi} \mathrm{d} \phi 
-        \int_0^{R_\odot} r^4 \mathrm{d} r
-        \int_0^{\pi} (\sin \theta)^3  \mathrm{d} \theta
+   L_\odot = \Omega \rho \int_0^{2 \pi} \mathrm{d} \phi \int_0^{R_\odot} r^4 \mathrm{d} r \int_0^{\pi} (\sin \theta)^3  \mathrm{d} \theta
 
 It is a multi-dimensional integral but we can simplify that by integrating
 over one dimension at a time. We will integrate over the :math:`\phi` direction
@@ -245,7 +244,13 @@ You can use the approximation that :math:`\rho` is a constant.
 
     You should get a result that is a function of three symbols: (1) the density of the Sun,
     (2) the radius of the Sun, and (3) the angular velocity of the Sun. Do not plug in
-    the numbers yet.
+    the numbers yet. Do not feel intimidated by the multi-dimensional integral. You do
+    not live in the stone age. Feel free to use any online integral calculator to help
+    you with the integration. For example, I use `Wolfram Alpha <https://www.wolframalpha.com/>`_
+    quite often to help me with complex integrals. You are allowed to use online tools
+    in your midterm exam. The homework does not test your ability to do integrals. It
+    trains your ability to understand the physics and can use the necessary tools to
+    solve the problem.
 
 You can use the :ref:`Solar Property Table` of the Sun to find the radius of the Sun and the
 rotation period of the Sun. However, you cannot get the density from the :ref:`Solar Property Table`.
@@ -257,7 +262,7 @@ we make various approximations to make a problem solvable. No problem can be sol
 without making any approximation or qualification. The key is to make the right 
 and reasonable approximation.
 
-Suppose that the density of the Sun is :math:`\rho_\odot = 1.408 \times 10^3` kg/m^3.
+Suppose that the density of the Sun is :math:`\rho_\odot = 1.35 \times 10^3` kg/m^3.
 
 (d) (1') Calculate the angular momentum of the Sun
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -267,7 +272,7 @@ Suppose that the density of the Sun is :math:`\rho_\odot = 1.408 \times 10^3` kg
     and make sure that your final result should have the unit of **kg m^2/s**.
 
 
-(e) (bonus 1') Explain why the density of the Sun is :math:`\rho_\odot = 1.408 \times 10^3` kg/m^3
+(e) (bonus 1') Explain why the density of the Sun is :math:`\rho_\odot = 1.35 \times 10^3` kg/m^3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     There is a reason why I choose this number. Since we know the mass and the radius of the Sun
@@ -368,7 +373,7 @@ at `here <https://github.com/pmocz/nbody-python>`_.
     and use the ``git`` command in the terminal or use Visual Studio Code to clone the repository.
 
 (b) (1') Run the N-body simulation code
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     The N-body simulation code is written in ``Python3``. You must have ``Python3`` installed
     on your computer to run the code. You can use the ``python3`` command directly in the terminal
