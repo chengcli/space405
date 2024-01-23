@@ -26,7 +26,7 @@ Course Schedule
      -
    * -
      - Jan 24
-     - Giant planets
+     - Cancelled due to instructor travel. Will be rescheduled.
      -
    * - 4
      - Jan 29

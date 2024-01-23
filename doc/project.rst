@@ -234,3 +234,54 @@ Questions
     #. What is the resolution of the final image received on the ground?
     #. Why does the shape model of Dimorphos appear more oblate than the illuminated limb shown in the image?
     #. How are boulder sizes distributed on Dimorphos?
+
+
+4. N-body simulation
+--------------------
+
+:Contributor: **Cheng Li**
+
+:Programming Language:
+  ``C++``
+
+:Difficulty:
+  |fillstar| |fillstar| |openstar| |openstar| |openstar|
+
+
+Background
+~~~~~~~~~~
+
+    N-body simulation
+
+Basic Goal
+~~~~~~~~~~
+
+    Develop an N-body simulation code in ``C++`` that can reproduce the results of the Nice model.
+
+Advanced Goal
+~~~~~~~~~~~~~
+
+    This N-body simulation code can reproduce the results of the Nice model.
+
+
+5. Visit Sedna
+--------------
+
+:Contributor: **Cheng Li**
+
+:Programming Language:
+  ``None``
+
+:Difficulty:
+  |fillstar| |openstar| |openstar| |openstar| |openstar|
+
+
+Basic Goal
+~~~~~~~~~~
+
+    Develop an N-body simulation code in ``C++`` that can reproduce the results of the Nice model.
+
+Advanced Goal
+~~~~~~~~~~~~~
+
+    This N-body simulation code can reproduce the results of the Nice model.

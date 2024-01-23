@@ -1,0 +1,3 @@
+[submodule "src/nbody-python"]
+	path = src/nbody-python
+	url = https://github.com/pmocz/nbody-python

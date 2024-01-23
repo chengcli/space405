@@ -7,6 +7,9 @@ Solar System Exploration
 :Grader:
   Ramya Bhaskarapanthula
 
+:Ombuds Person:
+  Kenneth Lam
+
 :Email:
   chengcli@umich.edu
 
@@ -29,6 +32,7 @@ Solar System Exploration
    syllabus
    glossary
    project
+   hw1
 
 Course Objectives
 -----------------
