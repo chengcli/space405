@@ -183,11 +183,11 @@ Sun. The :math:`z`-axis is aligned with the rotation axis of the Sun. The
 perpendicular to the :math:`x`-axis and the :math:`z`-axis. An illustration of the
 geometry is shown in the figure below.
 
-.. figure:: figs/spherical_polar.png
+.. figure:: spherical_polar.svg
     :width: 400
     :align: center
 
-    The spherical polar geometry
+    The spherical polar coordinate system
 
 In the spherical polar coordinate system, the position of the small piece is
 given by :math:`(r, \theta, \phi)`, where :math:`r` is the distance from the
