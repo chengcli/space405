@@ -109,8 +109,8 @@ hypothetical theory using the knowledge in the 18th century?
 What do you think is the most important observation or fact that leads to the downfall
 of Laplace's theory and the rise of the modern theory of planetary formation?
 
-2. Angular Momentum of the Solar System
----------------------------------------
+2. Angular Momentum of the Solar System - Part I
+------------------------------------------------
 
 Angular momentum is a conserved quantity in the absence of external torques.
 Before the solar system was formed, the space was occupied by a cloud of gas and
