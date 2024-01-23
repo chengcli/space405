@@ -34,9 +34,10 @@ To allow us to grade your homework, you must submit both your calculation code a
 written answers to ``Canvas`` in a combined ``PDF`` file. You code will be 
 graded based on the style and your written answers will be graded based on the correctness.
 
+.. _Solar Property Table:
 
-Properties of the Sun
----------------------
+Solar Property Table
+--------------------
 
 .. list-table::
     :header-rows: 1
@@ -54,6 +55,7 @@ Properties of the Sun
     * - Rotation Period
       - :math:`25.38` days
 
+.. _Planet Fact Sheet:
 
 Planet Fact Sheet
 -----------------
@@ -161,7 +163,7 @@ where :math:`\Omega` is called the angular velocity of the rotation.
 (a) (1') Calculate the angular velocity of the Sun in rad/s.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    You can use the Property Table of the Sun to find the rotation period of the Sun.
+    You can use the :ref:`Solar Property Table` to find the rotation period of the Sun.
     Then, you can calculate the angular velocity of the Sun based on the rotation period.
 
 
@@ -245,9 +247,9 @@ You can use the approximation that :math:`\rho` is a constant.
     (2) the radius of the Sun, and (3) the angular velocity of the Sun. Do not plug in
     the numbers yet.
 
-You can use the Property Table of the Sun to find the radius of the Sun and the
-rotation period of the Sun. However, you cannot get the density of the Sun from
-the Property Table. This is because the density of the Sun normally varies with the depth.
+You can use the :ref:`Solar Property Table` of the Sun to find the radius of the Sun and the
+rotation period of the Sun. However, you cannot get the density from the :ref:`Solar Property Table`.
+This is because the density of the Sun normally varies with the depth.
 
 To make the calculation easier, we have assumed that the density of the Sun is
 a constant. This is an approximation in the context of solving this problem. In reality,
@@ -269,7 +271,7 @@ Suppose that the density of the Sun is :math:`\rho_\odot = 1.408 \times 10^3` kg
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     There is a reason why I choose this number. Since we know the mass and the radius of the Sun
-    from the Property Table, we should be able calculate the density of the Sun. The
+    from the :ref:`Solar Property Table`, we should be able calculate the density of the Sun. The
     process is similar to the calculation of the angular momentum of the Sun.
     If you can get this number, you are awarded one bonus point toward this problem,
     meaning that you can get 6/5 for this problem.
@@ -286,7 +288,7 @@ understanding the formation of the solar system and identify anomalies.
 
 The problem asks you to reproduce the MMSN model and draft a plot of the surface
 density of the MMSN as a function of the distance from the Sun. You will need the
-Fact Sheet of the solar system for the density and location of the major planets.
+:ref:`Planet Fact Sheet` of the solar system for the density and location of the major planets.
 
 Assuming the following planet formation scenario:
 
@@ -386,7 +388,7 @@ at `here <https://github.com/pmocz/nbody-python>`_.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     Find out where the initial conditions are set in the code. Change the initial conditions
-    to be solar system like. You can use the Fact Sheet of the solar system to find
+    to be solar system like. You can use the :ref:`Planet Fact Sheet` of the solar system to find
     out various properties of the solar system.
 
     Run the simulation again and summarize the results.
