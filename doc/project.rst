@@ -255,7 +255,7 @@ N-body simulation is a fundamental tool in astrophysics.
 It is used to study the evolution of a system of particles under the influence of gravity.
 In class, we talked about the the Nice model, which is a model for the dynamical evolution of the Solar System.
 It is named for the location of 
-the `Observatoire de la Côte d'Azur <https://fr.wikipedia.org/wiki/Observatoire_de_la_C%C3%B4te_d%27Azur>`, 
+the `Observatoire de la Côte d'Azur <https://fr.wikipedia.org/wiki/Observatoire_de_la_C%C3%B4te_d%27Azur>`_, 
 where it was initially developed.
 The Nice model proposes the instability of the giant planets and the subsequent dynamical evolution of the Solar System.
 The model accounts for the `Late Heavy Bombardment <https://en.wikipedia.org/wiki/Late_Heavy_Bombardment>`_ 
