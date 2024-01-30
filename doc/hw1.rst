@@ -396,4 +396,27 @@ at `here <https://github.com/pmocz/nbody-python>`_.
     to be solar system like. You can use the :ref:`Planet Fact Sheet` of the solar system to find
     out various properties of the solar system.
 
+    You may follow the following steps to change the initial conditions.
+    Make sure that the code still works after each step.
+    You may need to change the time step and the total time to make the simulation work.
+    You may need to adjust the limits of the plot to make the plot look nice.
+    Gravitational constant was set to be 1 in the code. You may need to change it to be
+    the real value.
+
+    (1) Change the number of particles to 2. They represent 2 planets.
+
+    (2) Change the mass of the particles to be the mass of the Sun and the mass of the Earth.
+
+    (3) Change the initial position of the particles to be the position of the Sun and the Earth.
+
+    (4) Change the initial velocity of the particles to be the velocity of the Sun and the Earth.
+    The velocity of the Sun is zero. The velocity of the Earth is the orbital velocity of the Earth.
+    Make sure that the velocity is perpendicular to the position vector.
+
+    (5) Change the time step to be 1 day.
+
+    (6) Change the total time to be 1 year.
+    
+    (7) Add more particles to the simulation to represent more planets.
+
     Run the simulation again and summarize the results.
