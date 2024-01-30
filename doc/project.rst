@@ -102,6 +102,7 @@ Questions
 
 Background
 ~~~~~~~~~~
+
 Jupiter is widely known for its global widespread storms, vortices, and convective clouds that dominate its upper atmosphere. These phenomena are closely linked to atmospheric dynamics and weather phenomenon.
 Here is an infrared image of the Jupiter polar vortices, taken by Juno/JIRAM in the 20th flyby.
 
@@ -250,21 +251,26 @@ Questions
 Background
 ~~~~~~~~~~
 
-    N-body simulation is a fundamental tool in astrophysics. 
-    It is used to study the evolution of a system of particles under the influence of gravity.
-    In class, we talked about the the Nice model, which is a model for the dynamical evolution of the Solar System.
-    It is named for the location of the Observatoire de la Côte d'Azur, where it was initially developed.
-    The Nice model proposes the instability of the giant planets and the subsequent dynamical evolution of the Solar System.
-    The model accounts for the :ref:`Late Heavy Bombardment <https://en.wikipedia.org/wiki/Late_Heavy_Bombardment>`_ 
-    (LHB) of the inner Solar System, when a spike in the impact rate occurred about 4 billion years ago.
+N-body simulation is a fundamental tool in astrophysics. 
+It is used to study the evolution of a system of particles under the influence of gravity.
+In class, we talked about the the Nice model, which is a model for the dynamical evolution of the Solar System.
+It is named for the location of the Observatoire de la Côte d'Azur, where it was initially developed.
+The Nice model proposes the instability of the giant planets and the subsequent dynamical evolution of the Solar System.
+The model accounts for the :ref:`Late Heavy Bombardment <https://en.wikipedia.org/wiki/Late_Heavy_Bombardment>`_ 
+(LHB) of the inner Solar System, when a spike in the impact rate occurred about 4 billion years ago.
 
-    In your homework 1, you have a taste of the N-body simulation code in ``Python``.
-    The code is good for a quick demonstration of the N-body simulation, but it is too
-    slow for a real simulation. In this project, you will develop an N-body simulation code
-    in ``C++`` that can efficiently integrate the gravitational interaction of a large number of particles (N > :math:`10^6`).
-    You code will use the :ref:`PVFMM <https://github.com/chengcli/pvfmm>`_ library to accelerate the calculation of gravitational force.
+.. image:: ../images/nbody.gif
+   :width: 400px
+   :align: center
 
-    The objective is to reproduce the results of the Nice model.
+
+In your homework 1, you have a taste of the N-body simulation code in ``Python``.
+The code is good for a quick demonstration of the N-body simulation, but it is too
+slow for a real simulation. In this project, you will develop an N-body simulation code
+in ``C++`` that can efficiently integrate the gravitational interaction of a large number of particles (N > :math:`10^6`).
+You code will use the :ref:`PVFMM <https://github.com/chengcli/pvfmm>`_ library to accelerate the calculation of gravitational force.
+
+The objective is to reproduce the results of the Nice model.
 
 
 Basic Goal
