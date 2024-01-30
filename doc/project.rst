@@ -98,7 +98,7 @@ Questions
   |fillstar| |fillstar| |fillstar| |openstar| |openstar|
 
 :Owner:
-  **Raina Mahajan**
+  **Raina Mahajan** | **Abraham Skoczylas**
 
 Background
 ~~~~~~~~~~
