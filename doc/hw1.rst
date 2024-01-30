@@ -67,30 +67,39 @@ Planet Fact Sheet
     * - Planet
       - Mass (:math:`10^{24}` kg)
       - Distance from Sun (Au)
+      - Orbital Period (days)
     * - Mercury
       - 0.3285
       - 0.387
+      - 88
     * - Venus
       - 4.867
       - 0.723
+      - 225
     * - Earth
       - 5.972
       - 1.000
+      - 365
     * - Mars
       - 0.6390
       - 1.524
+      - 687
     * - Jupiter
       - 1898
       - 5.204
+      - 4333
     * - Saturn
       - 568.3
       - 9.582
+      - 10756
     * - Uranus
       - 86.8
       - 19.229
+      - 30687
     * - Neptune
       - 102.4
       - 30.103
+      - 60190
 
 1. (5') Revisit Laplace's view of planetary formation
 -----------------------------------------------------
@@ -389,8 +398,8 @@ at `here <https://github.com/pmocz/nbody-python>`_.
     The code is well documented. You should be able to understand how the code works
     by reading the comments in the code. Write a short paragraph to explain how the code works.
 
-(d) (2') Change the initial conditions of the simulation to be solar system like
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(d) (1') Change the initial conditions of the simulation to simulate the Sun-Earth system
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     Find out where the initial conditions are set in the code. Change the initial conditions
     to be solar system like. You can use the :ref:`Planet Fact Sheet` of the solar system to find
@@ -409,14 +418,20 @@ at `here <https://github.com/pmocz/nbody-python>`_.
 
     (3) Change the initial position of the particles to be the position of the Sun and the Earth.
 
-    (4) Change the initial velocity of the particles to be the velocity of the Sun and the Earth.
-    The velocity of the Sun is zero. The velocity of the Earth is the orbital velocity of the Earth.
-    Make sure that the velocity is perpendicular to the position vector.
+    (4) Change the initial velocity of one particle to be the orbital velocity of Earth.
+        You can use the orbital period to calculate the orbital velocity.
 
     (5) Change the time step to be 1 day.
 
     (6) Change the total time to be 1 year.
-    
-    (7) Add more particles to the simulation to represent more planets.
 
-    Run the simulation again and summarize the results.
+    Run the simulation and summarize the results.
+
+(e) (1') Change the initial conditions of the simulation to be solar system like
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    
+    (1) Add more particles to the simulation to represent more planets.
+
+    (2) Adjust the limits of the plot to make the plot look nice.
+
+    Run the simulation and summarize the results.
