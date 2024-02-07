@@ -47,11 +47,11 @@ Course Schedule
    * - 6
      - Feb 12
      - Radiative transfer and scattering
-     - ``HW 2 due``
+     - 
    * -  
      - Feb 14
      - Computational practice on radiative transfer
-     -
+     - ``HW 2 due``
    * - 7
      - Feb 19
      - Infrared remote sensing
@@ -59,7 +59,7 @@ Course Schedule
    * -
      - Feb 21
      - Microwave remote sensing
-     - ``HW 3 due``
+     - 
    * - 8
      - Feb 24
      - Winter Break
