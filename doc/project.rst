@@ -98,7 +98,7 @@ Questions
   |fillstar| |fillstar| |fillstar| |openstar| |openstar|
 
 :Owner:
-  **Abraham Skoczylas**
+  **Abraham Skoczylas** | **Madeline Deming**
 
 Background
 ~~~~~~~~~~
@@ -180,6 +180,9 @@ References
 
 :Difficulty:
   |fillstar| |fillstar| |fillstar| |fillstar| |openstar|
+
+:Owner:
+  **Luke LaMere** |  **Nathan Perry**
 
 Background
 ~~~~~~~~~~
