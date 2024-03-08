@@ -70,7 +70,7 @@ Course Schedule
      -
    * - 9
      - Mar 4
-     - Review of optical remote sensing instruments: from Pioneer to Europa
+     - 
      -  
    * -  
      - Mar 6
@@ -78,7 +78,7 @@ Course Schedule
      -
    * - 10
      - Mar 11
-     - Computational practice on remote sensing
+     - Review of optical remote sensing instruments: from Pioneer to Europa
      -
    * -  
      - Mar 13

@@ -318,11 +318,33 @@ Questions
 :Difficulty:
   |fillstar| |openstar| |openstar| |openstar| |openstar|
 
+Background
+~~~~~~~~~~
+
+  Uranus and Neptune are the archetypes of "ice giants", a class of planets that may be among the most common in the Galaxy.
+  They hold the keys to understand the atmospheric dynamics and structure of planets with hydrogen atmospheres
+  inside and outside the solar system; however, they are also the last unexplored planets of the Solar System. 
+
+  In 2023, the National Research Council of the National Academies of Sciences
+  recommended a Uranus Orbiter and Probe mission as a flagship mission for the 2030s.
+  Their decision was based on the scientific importance of the mission and the technological readiness of the mission.
+  Since then, multiple studies have been conducted to design the mission and its scientific instruments.
 
 Basic Goal
 ~~~~~~~~~~
 
+  This mini-project asks you to review the literature and summarize the current plan for the Uranus Orbiter mission.
+  You will write a report that summarizes the existing mission concept, their instruments, and how those instruments 
+  will address the scientific questions.
 
-Advanced Goal
-~~~~~~~~~~~~~
 
+Quests
+~~~~~~
+    
+    |uncheckedbox| Download the `2023 Planetary Science Decadal Survery <https://nap.nationalacademies.org/catalog/26522/origins-worlds-and-life-a-decadal-strategy-for-planetary-science>`_ .
+
+    |uncheckedbox| Read the survery and find the section about the Uranus Orbiter mission.
+
+    |uncheckedbox| Review the literature and summarize the current plan for the Uranus Orbiter mission in response to the decadal survey.
+
+    |uncheckedbox| Summarize the instruments and how they will address the scientific questions.
