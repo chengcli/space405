@@ -318,6 +318,9 @@ Questions
 :Difficulty:
   |fillstar| |openstar| |openstar| |openstar| |openstar|
 
+:Owner:
+  **Kenneth Lam** | **Prachet Jain**
+
 Background
 ~~~~~~~~~~
 
