@@ -28,13 +28,6 @@ Solar System Exploration
 .. toctree::
    :maxdepth: 2
 
-   index
-   syllabus
-   glossary
-   project
-   hw1
-   hw3
-
 Course Objectives
 -----------------
 
