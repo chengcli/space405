@@ -1,4 +1,4 @@
-Homework 1
+Homework 3
 ==========
 
 Release Date: 
@@ -65,8 +65,9 @@ good starting point to understand the big science questions related to how Sedna
 and how it might end up in its current orbit. It is named the "Nice Model" because it
 was first proposed by a group of scientists in Nice, France.
 
-Read a Nature article on the "Nice Model" `here <Morbidelli_Nice_Model_2005.pdf>`_ and 
-write a brief paragraph that summarizes the key findings of the "Nice Model".
+Read a Nature article on the "Nice Model" 
+`here <https://www.dropbox.com/scl/fi/5axpshbss3pw3h9kykqxo/Morbidelli_Nice_Model_2005.pdf?rlkey=x9oyyokkuu7j9qcw5ca7yaj36&dl=0>`_ 
+and write a brief paragraph that summarizes the key findings of the "Nice Model".
 
 
 2. (5') The big question, Part II
@@ -91,9 +92,31 @@ what were the key findings of the mission.
 3. (5') Selecting a remote sensing instrument
 ---------------------------------------------
 
-You received two instrument proposals for carr
+You received three remote sensing instrument proposals. The first proposal is for 
+a high-resolution infrared spectrometer that claims to quantitatively measure the 
+composition of the atmosphere and the surface of Sedna over a limited spectral range.
+
+The second proposal is for a low-resolution but broad-band infrared camera that can 
+survey the entire infrared spectrum of Sedna. Getting a quantitative measurement of
+the composition is a challenge.
+
+The third proposal is a low-cost visible-light camera that can take high-resolution
+images of the surface of Sedna. The camera can take images in a few filters to make
+a color composite image of the surface.
+
+You cannot afford to carry all three instruments on the spacecraft. You need to select
+two of the three instruments. Which two instruments would you select and why?
+
+There is a correct answer to this question, based on previous mission instrument
+selection results in similar situations. You need to justify your selection based
+on the information provided in this homework.
 
 
-3. (6') Selecting an in-situ measurement instrument
+3. (5') Selecting an in-situ measurement instrument
 ---------------------------------------------------
----------------------------------------------
+
+You received two in-situ measurement instrument proposals. The first proposal is
+an magnetometer that can measure the magnetic field of Sedna. The second proposal
+is a lander that can land on the surface of Sedna and measure the composition of
+the surface. Provide compelling arguments for selecting both instruments or only
+one of the two instruments.
