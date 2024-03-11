@@ -26,7 +26,14 @@ Solar System Exploration
     academic accommodations for qualified students with disabilities.
 
 .. toctree::
-   :maxdepth: 2
+
+    index
+    syllabus
+    glossary
+    project
+    hw1
+    hw3
+
 
 Course Objectives
 -----------------
