@@ -112,7 +112,7 @@ selection results in similar situations. You need to justify your selection base
 on the information provided in this homework.
 
 
-3. (5') Selecting an in-situ measurement instrument
+4. (5') Selecting an in-situ measurement instrument
 ---------------------------------------------------
 
 You received two in-situ measurement instrument proposals. The first proposal is
