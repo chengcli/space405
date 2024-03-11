@@ -78,7 +78,7 @@ Course Schedule
      -
    * - 10
      - Mar 11
-     - Review of optical remote sensing instruments: from Pioneer to Europa
+     - Review of space instruments: from Pioneer to Europa
      -
    * -  
      - Mar 13
