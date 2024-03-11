@@ -33,6 +33,7 @@ Solar System Exploration
    glossary
    project
    hw1
+   hw3
 
 Course Objectives
 -----------------
