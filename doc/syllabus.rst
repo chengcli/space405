@@ -86,7 +86,7 @@ Course Schedule
      -
    * - 11
      - Mar 18
-     - Magnetosphere and plasmas
+     - Planetary magnetic fields
      -
    * -  
      - Mar 20
@@ -102,7 +102,7 @@ Course Schedule
      -
    * - 13
      - Apr 1
-     - Computational practice on technical writing
+     - Practice on magnetic field and plasma
      -  
    * -  
      - Apr 3
@@ -110,15 +110,15 @@ Course Schedule
      -
    * - 14
      - Apr 8
-     - Climate evolution and habitability (I)
+     - Holistic view of planetary process
      - ``HW 5 due``
    * -
      - Apr 10
-     - Climate evolution and habitability (II)
+     - Climate evolution and habitability
      -
    * - 15
      - Apr 15
-     - Computational practice on climate evolution
+     - Practice on climate evolution
      -
    * - 
      - Apr 17
