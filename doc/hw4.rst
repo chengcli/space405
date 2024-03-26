@@ -104,7 +104,7 @@ Suppose that the proton hits the magnetic field of Earth and starts to gyrate ar
 magnetic field lines. The magnetic field of Earth is approximately 0.5 Gauss. 
 
 (3) (1') What is the maximum radius of the gyration of the proton with a kinetic energy
-    of 1 kev around the magnetic field lines of Earth?
+    of 1 keV around the magnetic field lines of Earth?
 
 
 4. (5') Motion of charged particles in magnetic fields
