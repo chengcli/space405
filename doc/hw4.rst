@@ -49,8 +49,8 @@ remnants of the planet's past magnetic field when the dynamo was active. Europa,
 Jupiter, is believed to host an ocean beneath its icy crust due to the magnetic induction
 of Jupiter's varying magnetic field.
 
-1. (5') Magnetic fields of Callisto
------------------------------------
+1. (5') Magnetic field of Callisto
+----------------------------------
 
 Callisto is the outermost Galilean moon of Jupiter. The rocks on Callisto's surface are
 billions of years old, which suggests that Callisto has not experienced any geological
@@ -97,5 +97,5 @@ magnetic field lines. The magnetic field of Earth is approximately 0.5 Gauss.
     of 1 kev around the magnetic field lines of Earth?
 
 
-3. (10') Magnetic Fields of Venus
----------------------------------
+3. (10') Magnetic field of Venus
+--------------------------------
